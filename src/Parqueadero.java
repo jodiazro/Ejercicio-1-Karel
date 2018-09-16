@@ -6,7 +6,10 @@
 
 /**
  *
- * @author Estudiante
+ * @author Johan Andrés Díaz Roa
+ *         Ahmet Felipe Marquez Gelvis
+ *         Santiago Hernández Lamprea
+ *         Cristian Camilo Vargas Morales
  */
 import becker.robots.*;
 import java.awt.Color;
